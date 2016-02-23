@@ -1,0 +1,39 @@
+#titulo{
+
+	text-align: center;
+}
+#formPart{
+
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+#response{
+	
+	margin-top:10px;
+	text-align:center;
+	
+}
+#linkNewAccount{
+	
+	margin-top:10px;
+	text-align:center;
+	font-family:monospace;
+	
+}
+#linkNewAccount a{
+	
+	text-decoration:none;
+	
+}
+
+.warn{
+	
+	color: rgb(245, 11, 10);
+	
+}
+
+.warning{
+	
+	border: 1.5px solid red;
+	
+}
